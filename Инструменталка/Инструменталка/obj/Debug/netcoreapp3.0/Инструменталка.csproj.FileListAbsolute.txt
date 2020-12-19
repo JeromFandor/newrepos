@@ -1,0 +1,3 @@
+C:\Users\79065\source\repos\Инструменталка\Инструменталка\obj\Debug\netcoreapp3.0\Инструменталка.csprojAssemblyReference.cache
+C:\Users\79065\source\repos\Инструменталка\Инструменталка\obj\Debug\netcoreapp3.0\Инструменталка.AssemblyInfoInputs.cache
+C:\Users\79065\source\repos\Инструменталка\Инструменталка\obj\Debug\netcoreapp3.0\Инструменталка.AssemblyInfo.cs
